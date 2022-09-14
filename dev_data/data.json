@@ -1,0 +1,51 @@
+[
+
+{
+    "id": 0,
+    "productName": "Avocado",
+    "from": "spain",
+    "nutrients": "Vitamin A, B",
+    "organic": true
+},
+
+{
+    "id": 1,
+    "productName": "Apple",
+    "from": "India",
+    "nutrients": "Vitamin C, D",
+    "organic": true
+},
+
+{
+    "id": 2,
+    "productName": "Orange",
+    "from": "Bhutan",
+    "nutrients": "Vitamin E, F",
+    "organic": true
+},
+
+{
+    "id": 3,
+    "productName": "Banana",
+    "from": "Nepal",
+    "nutrients": "Vitamin G, H",
+    "organic": false
+},
+
+{
+    "id": 4,
+    "productName": "Mango",
+    "from": "Italy",
+    "nutrients": "Vitamin I, J",
+    "organic": false
+}
+
+]
+
+
+
+
+
+
+
+

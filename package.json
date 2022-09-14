@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "require": "^2.4.20",
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
